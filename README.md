@@ -117,7 +117,7 @@ El servidor arranca en `http://localhost:8081`.
 Con el servidor en marcha:
 
 ```
-http://localhost:8080/swagger-ui/index.html
+http://localhost:8081/swagger-ui/index.html
 ```
 
 ---
